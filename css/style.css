@@ -1,0 +1,43 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.my-bg-primary {
+    background-color: #4741AF;
+    color: #FFF;
+}
+.my-bg-secondary {
+    background-color: #6159E7;
+    color: #FFF;
+}
+a.my-bg-secondary:hover {
+    background-color: #FFF;
+    color: #6159E7;
+}
+.navbar-brand {
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.nav-link, .navbar-brand{
+    color: #FFF;
+}
+.text h1 {
+    font-size: 72px;
+    font-weight: 700;
+} 
+.about .row h4 {
+    font-size: 24px;
+    font-weight: 700;
+    color: #6159E7;
+}
+.about .row h2 {
+    font-size: 40px;
+    font-weight: 700;
+    /* color: #6159E7; */
+}
+
+.about .border-primary {
+    color: black;
+    border-color: #4741AF;
+    font-weight: 700;
+}
